@@ -26,7 +26,7 @@ Users can explore environmental projects, purchase carbon credits, and contribut
 ## 📁 Repository Structure
 
 ### Frontend
-
+---
 carbon-marketplace-frontend/
 ├── src/
 │   ├── components/
