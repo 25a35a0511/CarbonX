@@ -23,6 +23,24 @@ Users can explore environmental projects, purchase carbon credits, and contribut
 - **State Management:** React Hooks  
 - **API Integration:** REST APIs  
 
+## 📁 Repository Structure
+
+### Frontend
+
+├── carbon-marketplace-frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── context/
+│   │   ├── hooks/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   │   └── api.js
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── public/
+│   ├── index.html
+│   ├── .env.example
+│   └── package.json
 ---
 
 ## 🎯 Use Case
