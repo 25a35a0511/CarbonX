@@ -26,7 +26,6 @@ Users can explore environmental projects, purchase carbon credits, and contribut
 ## 📁 Repository Structure
 
 ### Frontend
-
 ├── carbon-marketplace-frontend/
 │   ├── src/
 │   │   ├── components/
@@ -41,7 +40,6 @@ Users can explore environmental projects, purchase carbon credits, and contribut
 │   ├── index.html
 │   ├── .env.example
 │   └── package.json
----
 
 ## 🎯 Use Case
 
