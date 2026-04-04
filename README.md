@@ -26,20 +26,21 @@ Users can explore environmental projects, purchase carbon credits, and contribut
 ## 📁 Repository Structure
 
 ### Frontend
-├── carbon-marketplace-frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── context/
-│   │   ├── hooks/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   │   └── api.js
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── public/
-│   ├── index.html
-│   ├── .env.example
-│   └── package.json
+```plaintext
+carbon-marketplace-frontend/
+├── src/
+│   ├── components/
+│   ├── context/
+│   ├── hooks/
+│   ├── pages/
+│   ├── services/
+│   │   └── api.js
+│   ├── App.jsx
+│   └── main.jsx
+├── public/
+├── index.html
+├── .env.example
+└── package.json
 
 ## 🎯 Use Case
 
