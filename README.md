@@ -41,7 +41,7 @@ carbon-marketplace-frontend/
 ├── index.html
 ├── .env.example
 └── package.json
-
+```
 
 ## 🎯 Use Case
 
