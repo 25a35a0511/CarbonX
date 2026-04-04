@@ -42,6 +42,7 @@ carbon-marketplace-frontend/
 ├── .env.example
 └── package.json
 
+
 ## 🎯 Use Case
 
 - Carbon credit trading platforms  
